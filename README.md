@@ -12,5 +12,8 @@ Ferramentas: Git, Docker, Maven
 Com uma base sólida em Java e experiência em projetos usando Spring Boot e Spring Security, estou sempre buscando novas oportunidades para aprofundar meu conhecimento e explorar mais recursos dessa tecnologia. Meu objetivo é expandir minhas habilidades para entregar soluções ainda mais eficientes e inovadoras.
 
 📫 Vamos nos conectar!
-LinkedIn: [Luis Gustavo](https://www.linkedin.com/in/luisgustavol/)
-Email: lgustavog27@gmail.com
+
+LinkedIn: 
+[Luis Gustavo](https://www.linkedin.com/in/luisgustavol/)
+Email: 
+lgustavog27@gmail.com
