@@ -136,14 +136,13 @@ Desenvolvedor Back-End com mais de 3 anos de experiência, especializado em Java
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eugus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=eugus&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" 
   />
 
 <img 
